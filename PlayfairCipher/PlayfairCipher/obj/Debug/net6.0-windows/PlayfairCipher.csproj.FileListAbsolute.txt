@@ -1,0 +1,17 @@
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.csproj.AssemblyReference.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.PlayfairView.resources
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.csproj.GenerateResource.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.AssemblyInfoInputs.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.AssemblyInfo.cs
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\bin\Debug\net6.0-windows\PlayfairCipher.exe
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\bin\Debug\net6.0-windows\PlayfairCipher.deps.json
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\bin\Debug\net6.0-windows\PlayfairCipher.runtimeconfig.json
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\bin\Debug\net6.0-windows\PlayfairCipher.dll
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\bin\Debug\net6.0-windows\PlayfairCipher.pdb
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.dll
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\refint\PlayfairCipher.dll
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.pdb
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\PlayfairCipher.genruntimeconfig.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\PlayfairCipher\PlayfairCipher\obj\Debug\net6.0-windows\ref\PlayfairCipher.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/txCAQbFkr6F5kwEADAuweWJdnBdHbG2VARqnKQXuqmS/tV+4OPcBW9kGJHIbPUrp08/UVxqZIKDqrwUn3PshA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\OneDrive\\PUT\\6 semestr\\Podstawy kryptografii\\PlayfairCipher\\PlayfairCipher\\PlayfairCipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\wix.toolset\\3.9.1208\\wix.toolset.3.9.1208.nupkg.sha512"
+  ],
+  "logs": []
+}
