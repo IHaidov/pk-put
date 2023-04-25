@@ -1,0 +1,17 @@
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\bin\Debug\net6.0-windows\VC.exe
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\bin\Debug\net6.0-windows\VC.deps.json
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\bin\Debug\net6.0-windows\VC.runtimeconfig.json
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\bin\Debug\net6.0-windows\VC.dll
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\bin\Debug\net6.0-windows\VC.pdb
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.csproj.AssemblyReference.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.csproj.GenerateResource.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.AssemblyInfoInputs.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.AssemblyInfo.cs
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.dll
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\refint\VC.dll
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.pdb
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.genruntimeconfig.cache
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\ref\VC.dll
+C:\Users\Ivan\OneDrive\PUT\6 semestr\Podstawy kryptografii\VC\obj\Debug\net6.0-windows\VC.VCView.resources
